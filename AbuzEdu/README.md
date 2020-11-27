@@ -1,2 +1,0 @@
-# AbuzEdu
-AbuzEducation online platform
